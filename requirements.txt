@@ -1,0 +1,9 @@
+smolagents
+ddgs
+streamlit
+transformers
+huggingface-hub
+torch
+Pillow
+requests
+beautifulsoup4
